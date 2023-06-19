@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yash23011995
+- 👋 Hi, I’m Yash Vaghasia
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, JS & Python
-- 💞️ I’m looking to explore coding
-- 📫 How to reach me ...: yashwork23@gmail.com
+- 🌱 I’m currently learning Python, AI, GO
+- 💞️ I’m looking to explore 
+- 📫 How to reach me ...: https://ondevwebs.com | https://yashvaghasia.ondevwebs.com 
 
 <!---
 yash23011995/yash23011995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
